@@ -1,5 +1,7 @@
 ---
-title: Accueil
+title: "Accueil"
+order: 1
+in_menu: true
 ---
 # Site pour tester Scribouilli
 
